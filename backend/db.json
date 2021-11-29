@@ -1,0 +1,20 @@
+
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Notebook Samsungi",
+            "price":2000.00
+        },
+        {
+            "id":2,
+            "name":"Sansungi S10",
+            "price":1520.00
+        },
+        {
+            "id":3,
+            "name":"Samsungi J2",
+            "price":400.00
+        }
+    ]
+}
